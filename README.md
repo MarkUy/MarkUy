@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a Software Engineer, currently working at Inca Networks d.b.a. WISI America.
+
+I have three on-going side projects: [my blog](https://mark.zone), [timestamp.page](https://timestamp.page) and [skedible.com](https://skedible.com).
+I love learning new things. Please let me know if you need help on a project. I would like to contribute.
+
 <!--
 **MarkUy/MarkUy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
