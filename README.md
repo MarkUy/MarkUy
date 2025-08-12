@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Developer, currently working at Lightspeed Commerce Inc.
+<!-- I'm a Software Developer, currently working at Lightspeed Commerce Inc.
 
 <!--
 I have three on-going side projects: [my blog](https://mark.zone), [timestamp.page](https://timestamp.page) and [skedible.com](https://skedible.com).
